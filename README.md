@@ -19,6 +19,6 @@
 </br >
 
 ### Connect with me:
-[<img align="left" alt="Villarreal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Villarreal | LinkedIn" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/alejandro-villarreal-9310/
